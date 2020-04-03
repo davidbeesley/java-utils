@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidbeesley.util.UtilTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-03T15:01:47" hostname="dave-Oryx-Pro" time="0.021">
+  <properties/>
+  <testcase name="getTimeStamp" classname="com.github.davidbeesley.util.UtilTest" time="0.02"/>
+  <testcase name="getDateTimeStamp" classname="com.github.davidbeesley.util.UtilTest" time="0.001"/>
+  <system-out><![CDATA[DEBUG	Test worker(13)	09:01:47.038	UtilTest:getTimeStamp():
+		09:01:47.032
+
+DEBUG	Test worker(13)	09:01:47.040	UtilTest:getDateTimeStamp():
+		03-04-2020 09:01:47
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+<DEBUG	Test worker(13)	09:01:47.038	UtilTest:getTimeStamp():
+		09:01:47.032
+
+@DEBUG	Test worker(13)	09:01:47.040	UtilTest:getDateTimeStamp():
+		03-04-2020 09:01:47
+
